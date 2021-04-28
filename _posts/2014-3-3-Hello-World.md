@@ -1,10 +1,1 @@
----
-layout: post
-title: You're up and running!
----
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Many people write poems, novels or compose music dedicated to their loved ones. Realizing that I am far from the champions (https://youtu.be/ZU8SmDlxZPI) I decided to create a program (probably not needed by anyone) dedicated to a certain rascal. Of course, the desire to test several technologies also occurred.
