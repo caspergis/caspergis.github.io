@@ -8,7 +8,7 @@ I am a GIS analyst.
 
 ### More Information
 
-This is a A hobby project.
+This is a hobby project.
 
 ### Contact me
 
