@@ -12,4 +12,4 @@ This is a hobby project.
 
 ### Contact me
 
-[dlomel@poczta.onet.pl](mailto:dlomel@poczta.onet.pl)
+[CasperGis](mailto:caspergis@wp.pl)
