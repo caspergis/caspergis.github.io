@@ -86,4 +86,23 @@ Lis Layers with selected items.
 - PROP_SLIDING_DISABLED - false  
 - PROP_UNDOCKING_DISABLED - false
 
+## Window properties for all others:  
+- PROP_CLOSING_DISABLED - false
+- PROP_DRAGGING_DISABLED - false
+- PROP_MAXIMIZATION_DISABLED - false
+- PROP_SLIDING_DISABLED - false  
+- PROP_UNDOCKING_DISABLED - false
+
+## 4. Windows of S4. Tool Section
+- Tool windows
+
+
+
+## 5. Windows of S5. Properties Section.  
+- Bookmarks
+- Properties
+
+## 6. Windows of S6. Table Section
+- Tables
+- Output
 
