@@ -65,4 +65,25 @@ Window with the list of layers of inactive map - it is used mainly for copying l
 - PROP_SLIDING_DISABLED - false  
 - PROP_UNDOCKING_DISABLED - false
 
+## 3. Windows of S3. Layer Section 
+### 1. Layers list
+#### Destination:  
+List od Layers(structure of map).
+#### Window properties:  
+- PROP_CLOSING_DISABLED - true
+- PROP_DRAGGING_DISABLED - false
+- PROP_MAXIMIZATION_DISABLED - true
+- PROP_SLIDING_DISABLED - false  
+- PROP_UNDOCKING_DISABLED - false
+
+### 2. Selected items
+#### Destination:  
+Lis Layers with selected items.
+#### Window properties:  
+- PROP_CLOSING_DISABLED - false
+- PROP_DRAGGING_DISABLED - false
+- PROP_MAXIMIZATION_DISABLED - true
+- PROP_SLIDING_DISABLED - false  
+- PROP_UNDOCKING_DISABLED - false
+
 
