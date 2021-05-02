@@ -6,7 +6,7 @@ Window layout
 
 ![Windows section](/Images/202105/202105_001.png)
 
- ## S1. Main Section 
+## S1. Main Section 
 ### NetBeans: 
 Editor mode 
 ### Destination:   
