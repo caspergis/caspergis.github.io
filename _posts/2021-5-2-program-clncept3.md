@@ -43,3 +43,26 @@ Like PrintOut window on QGIS.
 - PROP_MAXIMIZATION_DISABLED - true
 - PROP_SLIDING_DISABLED - true  
 - PROP_UNDOCKING_DISABLED - false
+
+## 2. Windows of S2. Project 
+### 1. Project list
+#### Destination:  
+List of projects registered in the program in the form of a tree, where maps and printouts assigned to the project are displayed.
+#### Window properties:  
+- PROP_CLOSING_DISABLED - false
+- PROP_DRAGGING_DISABLED - false
+- PROP_MAXIMIZATION_DISABLED - true
+- PROP_SLIDING_DISABLED - false  
+- PROP_UNDOCKING_DISABLED - false
+
+### 2. Noactive map layers
+#### Destination:  
+Window with the list of layers of inactive map - it is used mainly for copying layers to the active map.
+#### Window properties:  
+- PROP_CLOSING_DISABLED - false
+- PROP_DRAGGING_DISABLED - false
+- PROP_MAXIMIZATION_DISABLED - true
+- PROP_SLIDING_DISABLED - false  
+- PROP_UNDOCKING_DISABLED - false
+
+
