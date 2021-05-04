@@ -10,7 +10,7 @@ layout: post
 - Create TopComponents and arange as you like.  
 - Run and close project.
 - Create layer.xml and write like this:  
-<filesystem>
+    <filesystem>
 
     <folder name="Windows2">
 
@@ -56,6 +56,6 @@ layout: post
 
     </folder>
 
-</filesystem>
+   b</filesystem>
 - In NetBeans in Files
 
