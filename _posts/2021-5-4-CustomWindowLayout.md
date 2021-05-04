@@ -1,9 +1,9 @@
 ---
-title: Create custom window layout
+title: Create custom window
 
 layout: post
-
 ---
+
 
 ## Create custom window layout
 
