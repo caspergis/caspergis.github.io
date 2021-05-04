@@ -1,4 +1,4 @@
-title: Program concept(part 3)
+title: Create custom window layout
 
 layout: post
 
