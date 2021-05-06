@@ -14,5 +14,8 @@ layout: post
 - im package you like, create files:
 1. WindowManager.wswmgr
 2. ProjectListMode.wsmode
-- In NetBeans in Files
+- In NetBeans in Files find directory: [Project]\build\testuserdir\config\Windows2Local\
+open WindowManager.wswmgr
+modes
+
 
