@@ -16,5 +16,5 @@ layout: post
 2. [1,2,...].wsmode - files describing the parameters of a given place(mode) in the application
 - In NetBeans in Files find directory: [Project]\build\testuserdir\config\Windows2Local\
 open WindowManager.wswmgr and copy the contents to your own file.
-Content of the modes files you van find in direciories named like "AcstractMode_1".
+Content of the modes files you can find in direciories named like "AcstractMode_1".
 
