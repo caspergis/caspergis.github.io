@@ -11,21 +11,10 @@ layout: post
 - Run and close project.
 - Create layer.xml and write like this:  
     [Layers.xml](https://github.com/bpodolski/CasperGIS/blob/master/Core/src/io/github/bpodolski/caspergis/layer.xml)  
-```javascript  
-import { ScullyConfig } from '@scullyio/scully';  
-export const config: ScullyConfig = {  
-  projectRoot: "./src",  
-  projectName: "portfolio",  
-  outDir: './dist/static',  
-  routes: {  
-    '/blog/:slug': {  
-      type: 'contentFolder',  
-      slug: {  
-        folder: "./blog"  
-      }  
-    },  
-  }  
-};  
+``` xml
+<folder name="BookmarksMode">
+                <file name="BookmarksTopComponent.wstcref" url="gui/modes/BookmarksTopComponent.wstcref"/>
+            </folder>
 ```
 - in package you like, create files:
 1. WindowManager.wswmgr - a file describing the general properties of the window manager (in it we define, for example, the size of icons in the toolbar)
