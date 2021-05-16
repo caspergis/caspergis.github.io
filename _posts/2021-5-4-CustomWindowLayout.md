@@ -11,7 +11,7 @@ layout: post
 - Run and close project.
 - Create layer.xml and write like this:  
     [Layers.xml](https://github.com/bpodolski/CasperGIS/blob/master/Core/src/io/github/bpodolski/caspergis/layer.xml)  
-```
+```xml
 <filesystem>
     <folder name="Windows2">
         <file name="WindowManager.wswmgr" url="gui/modes/WindowManager.wswmgr"/>
